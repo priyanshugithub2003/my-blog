@@ -2,10 +2,6 @@
 
 A simple and modern blog website built using React. This project is designed as a personal blog for **Priyanshu**, showcasing coding skills and a minimalist UI for better user experience. The blog is responsive and ready to be used in portfolios or resumes for placement applications.
 
-## Demo
-
-You can view the live demo of this blog here: [My Blog on GitHub Pages](https://priyanshugithub2003.github.io/my-blog/)
-
 ## Features
 
 - **Responsive Design**: Works well on both mobile and desktop devices.
