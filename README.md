@@ -38,3 +38,6 @@ Make sure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/priyanshugithub2003/my-blog.git
+   cd my-blog
+   npm install
+   npm start
